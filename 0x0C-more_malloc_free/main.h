@@ -1,5 +1,3 @@
-nes (12 sloc)  377 Bytes
-
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdio.h>
